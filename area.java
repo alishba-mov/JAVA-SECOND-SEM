@@ -6,12 +6,13 @@ class RectangleArea {
 
         int area = length * width; 
 
-        // Displaying result
+        
         System.out.println("Length: " + length);
         System.out.println("Width: " + width);
         System.out.println("Area of rectangle: " + area);
     }
 }
+
 
 
 
